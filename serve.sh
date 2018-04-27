@@ -1,5 +1,8 @@
 
 # install the plugins and build the static site
+git add .
+git commit -m "update on master"
+
 git push origin
 
 gitbook install && gitbook build
