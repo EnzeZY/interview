@@ -1,5 +1,5 @@
-# install the plugins and build the static site
 
+# install the plugins and build the static site
 gitbook install && gitbook build
 
 # checkout to the gh-pages branch
